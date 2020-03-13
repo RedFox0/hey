@@ -1,2 +1,2 @@
 # hey
-Just repo
+It is all about the coding and learning.
